@@ -1,0 +1,8 @@
+div{
+    width: 500px;
+    height: 500px;
+    border: 10px solid #3cb371;
+    border-radius: 60%;
+    background-size: cover;
+    background-image :url( https://akm-img-a-in.tosshub.com/indiatoday/images/story/202304/virat_kohli_afp-three_four.jpg?VersionId=VYSKuHDumkE5_QCXBuuXUFti6LXIG74U);
+}
